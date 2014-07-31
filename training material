@@ -1,0 +1,12 @@
+Learn best practices for using Git and GitHub to collaborate while developing software. In this one hour session, we’ll look at how to create a project, share it on GitHub, and collaborate using feature branches, pull requests and GitHub issues. 
+
+In this webinar, you will learn:
+
+1. How to create a repo
+2. How to create and use a feature branch online
+3. How to Clone and collaborate on feature branches
+4. How to Create and push a feature branch from the command line
+5. How to use pull requests for code review
+6. Pull requests for new code
+7. Issues for bugs and new feature discussions
+8. Release workflows with tags and releases
