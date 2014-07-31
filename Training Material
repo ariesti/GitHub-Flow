@@ -15,7 +15,7 @@ In this webinar, you will learn:
 5. How to use pull requests for code review
 
    - Who makes the pull request? The one who made most of the coding? Somebody else? 
-   - Some kind of informal contract before the pull request is followed by a merge.
+   - Some kind of `informal contract` before the pull request is followed by a merge.
    
 6. Pull requests for new code
 
