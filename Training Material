@@ -5,14 +5,21 @@ collaborate using feature branches, pull requests and GitHub issues.
 In this webinar, you will learn:
 
 1. How to create a repo
+
 2. How to create and use a feature branch online
+
 3. How to Clone and collaborate on feature branches
+
 4. How to Create and push a feature branch from the command line
+
 5. How to use pull requests for code review
+
    - Who makes the pull request? The one who made most of the coding? Somebody else? 
    - Some kind of informal contract before the pull request is followed by a merge.
    
 6. Pull requests for new code
+
 7. Issues for bugs and new feature discussions
+
 8. Release workflows with tags and releases
 
